@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Ukraine24.ua" group-title="Ukraine",Ukraine 24
+https://streamvideol1.luxnet.ua/news24/smil:news24.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="M1.ua" group-title="Ukraine",M1 Music
+https://live.m1.tv/hls/m1.m3u8
+
+#EXTINF:-1 tvg-id="M2.ua" group-title="Ukraine",M2 Music
+https://live.m2.tv/hls/m2.m3u8
