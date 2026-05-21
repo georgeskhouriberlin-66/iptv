@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="russia24.ru" group-title="Russia",Russia 24
+https://vgtrk-live.cdnvideo.ru/russia24/smil:r24.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="rbc.ru" group-title="Russia",RBC
+https://rbcvideo.cdnvideo.ru/rbcvideo/smil:rbcvideo.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="mir24.ru" group-title="Russia",Mir 24
+https://mir24live.mirtv.cdnvideo.ru/mir24/mir24.smil/master.m3u8
