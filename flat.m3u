@@ -1,21 +1,6 @@
 #EXTM3U
 
-########## RUSSIA ##########
-
-#EXTINF:-1 tvg-id="russia24.ru" group-title="Russia",Russia 24
-https://vgtrk-live.cdnvideo.ru/russia24/smil:r24.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="rbc.ru" group-title="Russia",RBC
-https://rbcvideo.cdnvideo.ru/rbcvideo/smil:rbcvideo.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="mir24.ru" group-title="Russia",Mir 24
-https://mir24live.mirtv.cdnvideo.ru/mir24/mir24.smil/master.m3u8
-
-
 ########## UKRAINE ##########
-
-#EXTINF:-1 tvg-id="Ukraine24.ua" group-title="Ukraine",Ukraine 24
-https://streamvideol1.luxnet.ua/news24/smil:news24.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="M1.ua" group-title="Ukraine",M1 Music
 https://live.m1.tv/hls/m1.m3u8
