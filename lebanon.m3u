@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TeleLiban.lb" group-title="Lebanon",Tele Liban
+https://cdn.sat.tv/teleliban/teleliban.m3u8
+
+#EXTINF:-1 tvg-id="LBCI.lb" group-title="Lebanon",LBCI
+https://lbci-live.cdn.mangomolo.com/lbci/smil:lbci.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="OTV.lb" group-title="Lebanon",OTV (Backup)
+https://otv-live.cdn.mangomolo.com/otv/smil:otv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="Noursat.lb" group-title="Lebanon",Noursat
+https://noursat-live.cdn.mangomolo.com/noursat/smil:noursat.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="FutureTV.lb" group-title="Lebanon",Future TV (Archive)
+https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
