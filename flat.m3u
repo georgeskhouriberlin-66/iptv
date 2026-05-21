@@ -1,0 +1,57 @@
+#EXTM3U
+
+########## RUSSIA ##########
+
+#EXTINF:-1 tvg-id="russia24.ru" group-title="Russia",Russia 24
+https://vgtrk-live.cdnvideo.ru/russia24/smil:r24.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="rbc.ru" group-title="Russia",RBC
+https://rbcvideo.cdnvideo.ru/rbcvideo/smil:rbcvideo.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="mir24.ru" group-title="Russia",Mir 24
+https://mir24live.mirtv.cdnvideo.ru/mir24/mir24.smil/master.m3u8
+
+
+########## UKRAINE ##########
+
+#EXTINF:-1 tvg-id="Ukraine24.ua" group-title="Ukraine",Ukraine 24
+https://streamvideol1.luxnet.ua/news24/smil:news24.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="M1.ua" group-title="Ukraine",M1 Music
+https://live.m1.tv/hls/m1.m3u8
+
+#EXTINF:-1 tvg-id="M2.ua" group-title="Ukraine",M2 Music
+https://live.m2.tv/hls/m2.m3u8
+
+
+########## LEBANON ##########
+
+#EXTINF:-1 tvg-id="TeleLiban.lb" group-title="Lebanon",Tele Liban
+https://cdn.sat.tv/teleliban/teleliban.m3u8
+
+#EXTINF:-1 tvg-id="LBCI.lb" group-title="Lebanon",LBCI
+https://lbci-live.cdn.mangomolo.com/lbci/smil:lbci.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="OTV.lb" group-title="Lebanon",OTV
+https://otv-live.cdn.mangomolo.com/otv/smil:otv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="Noursat.lb" group-title="Lebanon",Noursat
+https://noursat-live.cdn.mangomolo.com/noursat/smil:noursat.smil/master.m3u8
+
+
+########## ARABIC WORLD ##########
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" group-title="Arabic World",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="AlArabiya.sa" group-title="Arabic World",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHadath.sa" group-title="Arabic World",Al Hadath
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DWArabic.de" group-title="Arabic World",DW Arabic
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 tvg-id="France24Arabic.fr" group-title="Arabic World",France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
