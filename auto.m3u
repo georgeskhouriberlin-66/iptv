@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Auto",Russia (Auto)
-https://georgeskhouriberlin-66.github.io/iptv/russia.m3u
+https://raw.githubusercontent.com/georgeskhouriberlin-66/iptv/main/russia.m3u
 
 #EXTINF:-1 group-title="Auto",Ukraine (Auto)
-https://georgeskhouriberlin-66.github.io/iptv/ukraine.m3u
+https://raw.githubusercontent.com/georgeskhouriberlin-66/iptv/main/ukraine.m3u
 
 #EXTINF:-1 group-title="Auto",Lebanon (Auto)
-https://georgeskhouriberlin-66.github.io/iptv/lebanon.m3u
+https://raw.githubusercontent.com/georgeskhouriberlin-66/iptv/main/lebanon.m3u
 
 #EXTINF:-1 group-title="Auto",Arabic World (Auto)
-https://georgeskhouriberlin-66.github.io/iptv/arabic-world.m3u
+https://raw.githubusercontent.com/georgeskhouriberlin-66/iptv/main/arabic-world.m3u
