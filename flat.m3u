@@ -1,42 +1,42 @@
 #EXTM3U
 
-########## UKRAINE ##########
+########## Ukraine ##########
 
-#EXTINF:-1 tvg-id="M1.ua" group-title="Ukraine",M1 Music
+#EXTINF:-1 group-title="Ukraine",M1 Music
 https://live.m1.tv/hls/m1.m3u8
 
-#EXTINF:-1 tvg-id="M2.ua" group-title="Ukraine",M2 Music
+#EXTINF:-1 group-title="Ukraine",M2 Music
 https://live.m2.tv/hls/m2.m3u8
 
 
-########## LEBANON ##########
+########## Lebanon ##########
 
-#EXTINF:-1 tvg-id="TeleLiban.lb" group-title="Lebanon",Tele Liban
+#EXTINF:-1 group-title="Lebanon",Tele Liban
 https://cdn.sat.tv/teleliban/teleliban.m3u8
 
-#EXTINF:-1 tvg-id="LBCI.lb" group-title="Lebanon",LBCI
+#EXTINF:-1 group-title="Lebanon",LBCI
 https://lbci-live.cdn.mangomolo.com/lbci/smil:lbci.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="OTV.lb" group-title="Lebanon",OTV
+#EXTINF:-1 group-title="Lebanon",OTV
 https://otv-live.cdn.mangomolo.com/otv/smil:otv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="Noursat.lb" group-title="Lebanon",Noursat
+#EXTINF:-1 group-title="Lebanon",Noursat
 https://noursat-live.cdn.mangomolo.com/noursat/smil:noursat.smil/master.m3u8
 
 
-########## ARABIC WORLD ##########
+########## ArabicWorld ##########
 
-#EXTINF:-1 tvg-id="AlJazeera.qa" group-title="Arabic World",Al Jazeera
+#EXTINF:-1 group-title="ArabicWorld",AlJazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="AlArabiya.sa" group-title="Arabic World",Al Arabiya
+#EXTINF:-1 group-title="ArabicWorld",AlArabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlHadath.sa" group-title="Arabic World",Al Hadath
+#EXTINF:-1 group-title="ArabicWorld",AlHadath
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DWArabic.de" group-title="Arabic World",DW Arabic
+#EXTINF:-1 group-title="ArabicWorld",DWArabic
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
-#EXTINF:-1 tvg-id="France24Arabic.fr" group-title="Arabic World",France 24 Arabic
+#EXTINF:-1 group-title="ArabicWorld",France24Arabic
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
